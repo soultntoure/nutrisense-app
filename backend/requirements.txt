@@ -1,0 +1,15 @@
+# Python dependencies for the backend
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+python-jose[cryptography]
+passlib[bcrypt]
+python-dotenv
+pydantic[email]
+requests
+pandas
+numpy
+scikit-learn
+tensorflow
+redis
