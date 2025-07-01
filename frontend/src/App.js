@@ -1,0 +1,1 @@
+// Root React Native component
